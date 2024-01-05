@@ -1,0 +1,3 @@
+class SocialApiRoute {
+  SocialApiRoute._();
+}
